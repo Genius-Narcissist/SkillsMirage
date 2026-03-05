@@ -185,7 +185,7 @@ The system integrates open datasets including:
 
 Clone the repository:
 
-git clone https://github.com/your-username/skills-mirage.git
+git clone https://github.com/Genius-Narcissist/SkillsMirage.git
 
 Navigate to the project folder:
 
