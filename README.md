@@ -267,7 +267,7 @@ Shows hiring trends, skills demand, and AI vulnerability across cities.
 
 ## Worker Risk Analysis
 Users enter their job profile and receive a personalized AI risk score.
-![Risk Score](docs/images/Risk Score.png)
+![Risk Score](docs/images/RiskScore.png)
 
 ## Reskilling Roadmap
 Displays a structured week-by-week learning path.
